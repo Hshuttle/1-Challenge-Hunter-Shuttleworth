@@ -25,6 +25,7 @@ body {
   color: #d9dcd6;
 }
 
+/* linked all nav elements together */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -51,11 +52,12 @@ p {
   font-size: 16px;
 }
 
+/* moved background image to HTML */
 .hero {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
+  /* background-image: url("../images/digital-marketing-meeting.jpg"); */
   background-size: cover;
   background-position: center;
 }
@@ -76,6 +78,7 @@ p {
   margin-left: 20px;
 }
 
+/* combined like elements into benefits */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -87,22 +90,26 @@ p {
   background-color: #2589bd;
 }
 
+/* combined like elements into benefits */
 .benefit {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
+/* combined like elements into benefits */
 .benefit h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
+/* combined like elements into benefits */
 .benefit img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
+/* combined like elements into Horiseon callouts */
 .horiseon-callouts {
   margin-bottom: 20px;
   padding: 50px;
@@ -112,10 +119,12 @@ p {
   color: #ffffff;
 }
 
+/* combined like elements into Horiseon callouts */
 .horiseon-callouts img {
   max-height: 200px;
 }
 
+/* combined like elements into Horiseon callouts */
 .horiseon-callouts h2 {
   margin-bottom: 20px;
   font-size: 36px;
