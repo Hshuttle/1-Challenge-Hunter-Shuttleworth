@@ -26,7 +26,7 @@ In this challenge, we were tasked to refractor starter code that was given to us
 
 ## Usage
 
-You can view the webpage here:http://127.0.0.1:5500/index.html</br>
+You can view the webpage here:https://hshuttle.github.io/1-Challenge-Hunter-Shuttleworth/</br>
 You can view my github repository here: https://github.com/Hshuttle/1-Challenge-Hunter-Shuttleworth
 
 ### Screenshots
